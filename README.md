@@ -4,6 +4,10 @@ Control your PowerPoint presentations touch-free using hand gestures and your we
 
 This project uses **Computer Vision** (OpenCV & MediaPipe) to track your hand landmarks in real-time and translates them into PowerPoint commands via the Windows COM interface. It includes features for slide navigation and a dynamic "depth-based" zoom.
 
+## Demo
+
+Download the Media File to see the Demo
+
 ## ✨ Features
 
 * **Touchless Navigation:** Swipe through slides using a simple pointer gesture.
